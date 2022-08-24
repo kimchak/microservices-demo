@@ -1,0 +1,24 @@
+{
+  "name": "microservices-demo",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/microservices-demo/microservices-demo.svg?branch=master)](https://travis-ci.org/microservices-demo/microservices-demo)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimchak/microservices-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimchak/microservices-demo/issues"
+  },
+  "homepage": "https://github.com/kimchak/microservices-demo#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.25.1"
+  }
+}
